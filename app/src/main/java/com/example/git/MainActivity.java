@@ -6,6 +6,11 @@ import android.support.v4.app.Fragment;
 import android.support.v4.view.ViewPager;
 import android.support.v7.app.AppCompatActivity;
 
+import com.example.git.adapter.VpAdapter;
+import com.example.git.fragment.FuLiFragment;
+import com.example.git.fragment.OneFragment;
+import com.example.git.fragment.TwoFragment;
+
 import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {

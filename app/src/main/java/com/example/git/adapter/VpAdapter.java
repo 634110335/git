@@ -1,4 +1,4 @@
-package com.example.git;
+package com.example.git.adapter;
 
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
